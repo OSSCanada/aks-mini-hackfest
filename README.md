@@ -1,6 +1,6 @@
-# Justice League Voting App
+# Azure Container Services (AKS) - Mini Hackfest
 
-This repository is a subset of files from the full [Microsoft Intelligent Cloud Blackbelt Team :: Hackfest Repo](https://github.com/Azure/blackbelt-aks-hackfest), which is a detailed Hand on Lab (HoL) on deploying an app to a Kubernetes Distributed Computing Cluster.
+This repository is a mini/subset of the full [Microsoft Intelligent Cloud Blackbelt Team :: Hackfest Repo](https://github.com/Azure/blackbelt-aks-hackfest), which is a complete and detailed Hand on Lab (HoL) around deploying a 3-tier app to a Kubernetes Distributed Computing Cluster.
 
 This repository is meant to be a quickstart base for other hands on labs - such as the [OSS Canada VSTS CI/CD Hands on Lab](https://github.com/OSSCanada/vsts_build_pipeline).
 
