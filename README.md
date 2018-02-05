@@ -1,8 +1,8 @@
 # Justice League Voting App
 
-This repository is a subset of files from the [Microsoft Intelligent Cloud Blackbelt Team :: Hackfest Repo](https://github.com/Azure/blackbelt-aks-hackfest).
+This repository is a subset of files from the full [Microsoft Intelligent Cloud Blackbelt Team :: Hackfest Repo](https://github.com/Azure/blackbelt-aks-hackfest), which is a detailed Hand on Lab (HoL) on deploying an app to a Kubernetes Distributed Computing Cluster.
 
-It is meant to be a base quickstart for other hands on labs.
+This repository is meant to be a quickstart base for other hands on labs - such as the [OSS Canada VSTS CI/CD Hands on Lab](https://github.com/OSSCanada/vsts_build_pipeline).
 
 ## Contributing
 
